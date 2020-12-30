@@ -1,0 +1,9 @@
+
+        [database.engine]
+        insert_record=pyodbcsqlserver2000database.helper:insert_record
+        engine_name=  pyodbcsqlserver2000database:engine_name
+        plugin_name=  pyodbcsqlserver2000database:plugin_name
+        driver_name=  pyodbcsqlserver2000database:driver_name
+        param_style=  pyodbcsqlserver2000database:param_style
+        update_config=pyodbcsqlserver2000database.helper:update_config
+    
